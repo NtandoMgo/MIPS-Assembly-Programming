@@ -16,6 +16,7 @@ sum.asm: Run the program in a MIPS environment. Input the series of positive int
 spreadsheetCalculator.asm: Execute the program in a MIPS environment. Input the number of cells and their formulas, and the program will print all cells in order along with the sum of all cells.
 
 **How to Run:**
+
 Clone the repository to your local machine.
 Open each .asm file in a MIPS assembly environment such as QtSpim.
 Assemble and execute each program, following the instructions provided above for each program.
